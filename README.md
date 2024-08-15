@@ -1,5 +1,5 @@
 # About me 👋
-- 👩‍🔧 I'm Kaye Arroyo.
+I'm Kaye Arroyo.
 - 💮 I'm 20 years old.
 - 🏫 I’m a second-year college student.
 - 🌱 I’m currently learning JavaScript.
