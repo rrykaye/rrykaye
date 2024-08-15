@@ -1,6 +1,4 @@
 # About me 👋
-
-**rrykaye/rrykaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👩‍🔧 I'm Kaye Arroyo.
 - 💮 I'm 20 years old.
 - 🏫 I’m a second-year college student.
